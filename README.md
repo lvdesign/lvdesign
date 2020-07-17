@@ -1,4 +1,4 @@
-### Hi there 👋, I 'm Laurent from L to LVdesign 🤔
+### Hi there 👋, I 'm Laurent the L of LVdesign my studio 🤔
 
 <!--
 **lvdesign/lvdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
